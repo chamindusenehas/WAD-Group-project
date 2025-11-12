@@ -76,7 +76,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       </form>
       
       <p class="signup-text">Don't have an account? <a href="signup.php">Create an account</a></p>
-      <p><a style="color: #636ae8 ; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-decoration: double;"" href="index.html">Back to home</a></p>
     </div>
   </div>
   <script>

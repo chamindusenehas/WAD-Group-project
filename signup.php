@@ -89,7 +89,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <p class="login-text">
         Already have an account? <a href="login.php">Log in</a>
       </p>
-      <p><a style="color: #636ae8 ; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-decoration: double;" href="index.html">Back to home</a></p>
     </div>
   </div>
   <script>

@@ -52,7 +52,7 @@ if (!isset($_SESSION['user_id'])) {
                 <div class="sec-text">
                     <h1 >Skills That Shape Tomorrow, <br> Start Learning Today </h1>
                     <p>SkillSprint is a leading learning platform dedicated to empowering learners with in-demand tech skills and hands-on experience. We help you master the future through expert-led courses, real-world projects, and innovative learning experiences.</p>
-                   <a href="product.html" class="btn">Explore Our Products </a>
+                   <a href="products.php" class="btn">Explore Our Products </a>
                 </div>
                 <div class="main-image">
                     <img src="images/home-image1.jpeg" alt="futuristic cyber Digital Matrix Background">
@@ -121,18 +121,18 @@ if (!isset($_SESSION['user_id'])) {
                                                   <div class="client-grid">
 
                                                         <div class="client-box">
-                                                            <div class="icon"><img src="images/homeicon3.jpg" alt="boy photo" class="icon"></div>
+                                                            <div class="icon"><img src="images/homeicon3.jpeg" alt="boy photo" class="icon"></div>
                                                             <h4 style="color: #636ae8;">David Lee</h3>
                                                             <p>"SkillSprint’s Web Development course exceeded my expectations. The combination of hands-on projects and clear explanations helped me confidently build websites from scratch."</p>
                                                         </div>    
                                                         
                                                         <div class="client-box">
-                                                                    <div class="icon"><img src="images/homeicon1.jpg" alt="girl photo" class="icon"></div>
+                                                                    <div class="icon"><img src="images/homeicon2.jpeg" alt="girl photo" class="icon"></div>
                                                                     <h4 style="color:#636ae8  ;">Sarah Chen</h4>
                                                                     <p>"Cybersecurity training at SkillSprint helped me understand encryption, threat prevention, and secure system design, making me more prepared for professional work"</p>
                                                                 </div>  
                                                         <div class="client-box">
-                                                                    <div class="icon"><img src="images/homeicon2.jpg" alt="girl photo" class="icon"></div>
+                                                                    <div class="icon"><img src="images/homeicon1.jpeg" alt="girl photo" class="icon"></div>
                                                                     <h4 style="color:#636ae8  ;">Maria Rodriguez</h4>
                                                                     <p>"The UI/UX Design course enhanced my creativity and taught me to design user-friendly, professional interfaces that truly improve user experiences."</p>
                                                         
